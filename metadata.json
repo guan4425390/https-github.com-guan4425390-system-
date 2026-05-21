@@ -1,0 +1,6 @@
+{
+  "name": "关节活动度考试系统",
+  "description": "移动端适配的医学技能考试系统，随机抽取六大关节作为活动度评估考题。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
